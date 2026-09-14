@@ -11,4 +11,4 @@ if(isset($_POST['nome'], $_POST['patrimonio'])){
     echo "<pre>";
     print_r($item);
     echo "</pre>";
-}
+}  
